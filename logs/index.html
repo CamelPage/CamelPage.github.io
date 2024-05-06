@@ -1,0 +1,29 @@
+<html>
+  <script src="../script/darkmode.js"></script>
+  <script>
+    let pass; // Declare pass variable outside if blocks
+
+      pass = prompt("Podaj Hasło:", "123");
+  
+      if (pass == "qwerty") {
+
+      console.log("Welcome Creator");
+
+    } else {
+      reload("../");
+    }
+    function LogOut() {
+      reload("../");
+    }
+  </script>
+
+  <head>
+    <title>Server LOG</title>
+  </head>
+
+  <body>
+    <a onclick='reload("../")' style="cursor: pointer;"> Back </a>
+
+    <iframe src="latest.log" width="100%" height="100%"></iframe>
+  </body>
+</html>

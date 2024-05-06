@@ -1,0 +1,255 @@
+nil
+ UPDATE  The latest version of `serve` is 14.2.3
+ INFO  Accepting connections at http://localhost:3000
+ HTTP  6.05.2024 20:13:39 ::1 GET /
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /logs/
+ HTTP  6.05.2024 20:13:39 ::1 Returned 200 in 18 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 200 in 7 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 2 ms
+ HTTP  6.05.2024 20:13:39 ::1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:13:39 ::1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 2 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 ::1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:13:39 ::1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 ::1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:13:39 ::1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:39 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:13:39 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /galeria/
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:44 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:13:44 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:45 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:46 127.0.0.1 GET /logs/
+ HTTP  6.05.2024 20:13:46 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:13:46 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:48 127.0.0.1 GET /logs/latest.log
+ HTTP  6.05.2024 20:13:48 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 2 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:13:51 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:45 127.0.0.1 GET /
+ HTTP  6.05.2024 20:18:45 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:46 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:18:46 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 2 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:47 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:18:47 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:18:49 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:18:49 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 200 in 2 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:22:17 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:22:17 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:22:18 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:22:18 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:22:18 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:22:18 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:23:57 127.0.0.1 GET /img/favicon.ico
+ HTTP  6.05.2024 20:23:57 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:24:15 127.0.0.1 GET /
+ HTTP  6.05.2024 20:24:15 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6.05.2024 20:33:31 127.0.0.1 GET /galeria/
+ HTTP  6.05.2024 20:33:31 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB1.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 200 in 1 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /css/UI.css
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB2.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB5.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB4.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:33:32 127.0.0.1 GET /img/WB3.jpg
+ HTTP  6.05.2024 20:33:32 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:33:34 127.0.0.1 GET /img/WB6.jpg
+ HTTP  6.05.2024 20:33:34 127.0.0.1 Returned 200 in 0 ms
+ HTTP  6.05.2024 20:38:36 127.0.0.1 GET /logs/
+ HTTP  6.05.2024 20:38:36 127.0.0.1 Returned 304 in 0 ms
+ HTTP  6.05.2024 20:38:36 127.0.0.1 GET /script/darkmode.js
+ HTTP  6.05.2024 20:38:36 127.0.0.1 Returned 304 in 1 ms
+ HTTP  6.05.2024 20:38:42 127.0.0.1 GET /logs/latest.log
+ HTTP  6.05.2024 20:38:42 127.0.0.1 Returned 200 in 1 ms
